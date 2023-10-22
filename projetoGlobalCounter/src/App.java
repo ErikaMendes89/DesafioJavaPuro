@@ -26,6 +26,6 @@ public class App {
     }
 
 
-       System.out.println("Valor do contador: " + counter);
+       System.out.println("Valor do contador: " + counter.getCount());
     }
 }
